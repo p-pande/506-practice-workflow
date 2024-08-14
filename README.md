@@ -9,7 +9,7 @@ I created a function that compares if two numbers are greater than or smaller th
 
 When I inputted numbers 1 and 5 into the function, it printed out that 1 is smaller than 5 as expected. 
 
-For the given assignment, here was the output:
+## For the given assignment, here was the output:
 
 The assigned number is:  22
 
