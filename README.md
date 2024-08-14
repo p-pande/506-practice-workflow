@@ -12,7 +12,11 @@ When I inputted numbers 1 and 5 into the function, it printed out that 1 is smal
 For the given assignment, here was the output:
 
 The assigned number is:  22
+
 The assigned string is:  hello!
+
 The list has the numbers:  [1, 2, 4, 5, 6, 7]
+
 This student's name is  Prabhakar and he is enrolled in  Masters in Applied Health Informatics
+
 The result is:  1 is smaller than 5
